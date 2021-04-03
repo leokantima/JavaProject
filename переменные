@@ -1,0 +1,12 @@
+package com.max.idea;
+
+public class Main {
+    public static void main(String[] args) {
+        double b;
+        b = 3.1624;
+        byte c;
+        c = 46;
+        System.out.println(b);
+        System.out.println(c);
+    }
+}
